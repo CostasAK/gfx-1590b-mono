@@ -1,0 +1,27 @@
+###############################
+# Git Line Endings            #
+###############################
+
+# Set default behaviour to automatically normalize line endings.
+* text=auto
+
+# Force bash scripts to always use lf line endings so that if a repo is accessed
+# in Unix via a file share from Windows, the scripts will work.
+*.sh text eol=lf
+
+
+###############################
+# KiCAD                       #
+###############################
+
+# ignore the date in .pro files
+*.pro filter=kicad_project
+# with the following clean/smudge
+# $ git config --local filter.kicad_project.clean "sed -E 's/^update=.*$/update=Date/'"
+# $ git config --local filter.kicad_project.smudge cat
+
+# ignore hidden flags
+*.sch filter=kicad_sch
+# with the following clean/smudge
+# $ git config --local filter.kicad_sch.clean "sed -E 's/#(PWR|FLG)[0-9]+/#\1?/'"
+# $ git config --local filter.kicad_sch.smudge cat
