@@ -1,9 +1,9 @@
 # Guitar Effects 1590B Mono
 
 [![License](https://img.shields.io/github/license/CostasAK/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono/blob/master/LICENSE)
-[![Watchers](https://img.shields.io/github/watchers/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
+<!--[![Watchers](https://img.shields.io/github/watchers/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
 [![Stars](https://img.shields.io/github/stars/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
-[![Forks](https://img.shields.io/github/forks/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
+[![Forks](https://img.shields.io/github/forks/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)-->
 
 This is a KiCad template for guitar effects fitting the 1590B Hammond Enclosure. For effects with mono input and output and without a battery.
 
