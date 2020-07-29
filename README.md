@@ -52,7 +52,7 @@ Use the `Send` net label for effect input, and `Return` for effect output.
 
 ## Layout
 
-![layout](./pcb_plot/GFX_1590B_Mono_NoBattery.pdf)
+[Layout](./pcb_plot/GFX_1590B_Mono_NoBattery.pdf)
 
 ## Case
 
