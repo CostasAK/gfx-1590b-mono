@@ -21,7 +21,7 @@ This is a KiCad template for guitar effects fitting the 1590B Hammond Enclosure.
 
 1. Ensure this template folder is in your `KICAD_USER_TEMPLATE_DIR` path.
 2. _Create new project from template_.
-3. Select the _1590B - Centred Switch_ template from the _User Templates_ tab.
+3. Select the _1590B - Mono I/O, no battery_ template from the _User Templates_ tab.
 4. Decide on a name and path for the new project.
 
 ### Git
