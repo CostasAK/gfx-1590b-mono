@@ -1,6 +1,11 @@
-# 1590B
+# Guitar Effects 1590B Mono
 
-This is a KiCad template for guitar effects fitting the 1590B Hammond Enclosure. Based on a [template by Ryan McPherson from Electroblog](http://www.caravanelectroworks.com/?p=418). All citations here are from Ryan.
+[![License](https://img.shields.io/github/license/CostasAK/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono/blob/master/LICENSE)
+[![Watchers](https://img.shields.io/github/watchers/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
+[![Stars](https://img.shields.io/github/stars/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
+[![Forks](https://img.shields.io/github/forks/costasak/gfx-1590b-mono)](https://github.com/CostasAK/gfx-1590b-mono)
+
+This is a KiCad template for guitar effects fitting the 1590B Hammond Enclosure. For effects with mono input and output and without a battery.
 
 - [Setup](#setup)
   - [KiCad](#kicad)
@@ -8,6 +13,7 @@ This is a KiCad template for guitar effects fitting the 1590B Hammond Enclosure.
 - [Schematic](#schematic)
 - [Layout](#layout)
 - [Case](#case)
+- [Acknowledgements](#acknowledgements)
 
 ## Setup
 
@@ -51,3 +57,7 @@ Use the `Send` net label for effect input, and `Return` for effect output.
 ## Case
 
 PDF of the Hammond 1590B Enclosure: [1590B PDF](http://www.hammondmfg.com/pdf/1590B.pdf)
+
+## Acknowledgements
+
+Inspired by a [template by Ryan McPherson from Electroblog](http://www.caravanelectroworks.com/?p=418)
