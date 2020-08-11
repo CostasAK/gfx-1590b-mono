@@ -54,9 +54,10 @@ Use the `Send` net label for effect input, and `Return` for effect output.
 
 [Layout](./pcb_plot/GFX_1590B_Mono_NoBattery.pdf)
 
-## Case
+## Hardware
 
-PDF of the Hammond 1590B Enclosure: [1590B PDF](http://www.hammondmfg.com/pdf/1590B.pdf)
+* PDF of the Hammond 1590B Enclosure: [1590B PDF](http://www.hammondmfg.com/pdf/1590B.pdf)
+* [Footswitch with LED](https://www.taydaelectronics.com/illuminated-push-botton-foot-3pdt-switch-bi-color-red-blue.html)
 
 ## Acknowledgements
 
